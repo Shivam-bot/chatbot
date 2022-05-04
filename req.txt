@@ -1,0 +1,9 @@
+click==8.0.1
+colorama==0.4.4
+joblib==1.0.1
+nltk==3.6.2
+numpy==1.22.3
+regex==2021.7.6
+torch==1.11.0
+tqdm==4.61.2
+typing-extensions==4.2.0
